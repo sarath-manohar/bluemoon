@@ -1,0 +1,491 @@
+{
+  "_note": "STAND-IN DATA. The real bluemoon-data.json was not available when this template was built. Replace this file with the real one (same top-level keys: brand, seo, contact, highlights, services, destinations, food, inclusions, stay, offerNote). Phone numbers and the Instagram link are real; the Facebook link is still a guess.",
+  "brand": {
+    "name": "Bluemoon Tour Packages",
+    "shortName": "BM",
+    "since": 2005,
+    "location": "Kollam, Kerala",
+    "slogan": "We just wanna explore the hidden world",
+    "tagline": "a complete companion through the journey"
+  },
+  "seo": {
+    "title": "Bluemoon Tour Packages | College, School, Pilgrim, Honeymoon & Family Tours from Kollam, Kerala",
+    "description": "Bluemoon Tour Packages, Kollam, Kerala, since 2005. College, school, pilgrim, honeymoon, family and train tours with food, stay and travel arranged — a complete companion through the journey."
+  },
+  "contact": {
+    "phones": [
+      "+91 94474 54023"
+    ],
+    "footerPhones": [
+      "+91 81291 29598",
+      "+91 62824 93726",
+      "+91 86061 57272",
+      "+91 73066 19017",
+      "+91 70259 24602"
+    ],
+    "social": {
+      "facebook": "https://www.facebook.com/bluemoontourpackages",
+      "instagram": "https://www.instagram.com/_bluemoon_kollam_/"
+    }
+  },
+  "highlights": {
+    "security": "Security assured for all staff & students"
+  },
+  "services": [
+    {
+      "id": "college",
+      "title": "College Tours",
+      "description": "Lively, well-planned trips for college batches and departments."
+    },
+    {
+      "id": "school",
+      "title": "School Tours",
+      "description": "Safe, supervised educational and fun tours for school groups."
+    },
+    {
+      "id": "pilgrim",
+      "title": "Pilgrim Tours",
+      "description": "Comfortable journeys to temples, churches and holy places."
+    },
+    {
+      "id": "honeymoon",
+      "title": "Honeymoon Tours",
+      "description": "Romantic getaways planned around the two of you."
+    },
+    {
+      "id": "family",
+      "title": "Family Tours",
+      "description": "Relaxed holidays with something for every age."
+    },
+    {
+      "id": "train",
+      "title": "Train Tours",
+      "description": "Group tours by rail, with everything arranged at both ends."
+    }
+  ],
+  "destinations": [
+    {
+      "name": "Munnar",
+      "featured": true,
+      "places": [
+        "Eravikulam National Park",
+        "Mattupetty Dam",
+        "Echo Point",
+        "Tea Museum",
+        "Top Station",
+        "Attukal Waterfalls",
+        "Kundala Dam "
+      ],
+      "activities": [
+        "Tea plantation walk",
+        "Boating",
+        "Jeep safari"
+      ]
+    },
+    {
+      "name": "Marayur",
+      "featured": true,
+      "places": [
+        "Marayoor Sandalwood Forest",
+        "Muniyara (Dolmens)",
+        "Anakottapara Park",
+        "Thoovanam Waterfalls",
+        "Lakkam Waterfalls",
+        "Karimutty Waterfalls",
+        "Irachilpara Waterfalls",
+        "Bhramaram Viewpoint",
+        "Marayoor Viewpoint",
+        "Murugan Mala",
+        "Kanthalloor Waterfalls",
+        "Arumpuli Waterfalls",
+        "Ezhuthu Guha",
+        "Pambar River",
+        "Marayoor Jaggery Making Units"
+      ],
+      "activities": [
+        "Trekking",
+        "Jeep safari"
+      ]
+    },
+    {
+      "name": "Vagamon",
+      "places": [
+        "Vagamon Meadows",
+        "Pine Forest",
+        "Kurisumala Ashram",
+        "Marmala Waterfall",
+        "Thangal Para"
+      ]
+    },
+    {
+      "name": "Wayanad",
+      "places": [
+        "Edakkal Caves",
+        "Banasura Sagar Dam",
+        "Soochipara Falls",
+        "Chembra Peak",
+        "Pookode Lake",
+        "Kuruva Island",
+        "Karapuzha Dam",
+        "Meenmutty waterfalls",
+        "900 kandi trek",
+        "Thirunelli Temple",
+        "Pazhassiraja Tomb",
+        "Meppadi Trek"
+      ],
+      "activities": [
+        "Trekking",
+        "Boating at Pookode Lake",
+        "Jeep safari"
+      ]
+    },
+    {
+      "name": "Thekkady",
+      "featured": true,
+      "places": [
+        "Periyar Wildlife Sanctuary",
+        "Spice plantations",
+        "Mullaperiyar Dam",
+        "Kadathanadan Kalari Centre"
+      ],
+      "activities": [
+        "Boating on Periyar Lake",
+        "Bamboo rafting",
+        "Jungle trekking"
+      ]
+    },
+   
+    {
+      "name": "Chickmanglore",
+      "places": [
+        "Mullayanagiri Trek",
+        "Baba Budangiri Trek",
+        "Z Point Trek",
+        "Manikyadhara Falls Trek",
+        "Ziri Statue",
+        "Seethayalanagiri",
+        "Jerry Falls",
+        "Honnamalla Falls"
+      ]
+    },
+    {
+      "name": "Kanyakumari",
+      "featured": true,
+      "places": [
+        "Vivekananda Rock Memorial",
+        "Thiruvalluvar Statue",
+        "Kumari Amman Temple",
+        "Gandhi Memorial",
+        "Sunrise Point"
+      ]
+    },
+    {
+      "name": "Rameshwaram",
+      "places": [
+        "Ramanathaswamy Temple",
+        "Pamban Bridge",
+        "Dhanushkodi",
+        "Agni Theertham",
+        "Dr. A. P. J. Abdul Kalam Memorial"
+      ]
+    },
+    {
+      "name": "Belur",
+      "places": [
+        
+        "Water-Activities",
+        "Chennakesava Temple",
+        "Yagachi Dam"
+        
+      ]
+    },
+    {
+      "name": "Ooty",
+      "featured": true,
+      "places": [
+        "Botanical Gardens",
+        "Ooty Lake",
+        "Doddabetta Peak",
+        "Rose Garden",
+        "Pykara Falls",
+        "Conoor",
+        "Tea Factory"
+      ],
+      "activities": [
+        "Boating",
+        "Toy train ride"
+      ]
+    },
+    {
+      "name": "Kodaikanal",
+      "places": [
+        "Coaker's Walk",
+        "Pillar Rocks",
+        "Kodai Lake",
+        "Bryant Park",
+        "Guna Caves"
+      ],
+      "activities": [
+        "Boating",
+        "Cycling around the lake"
+      ]
+    },
+    {
+      "name": "Mysore",
+      "places": [
+        "Mysore Palace",
+        "Chamundi Hills",
+        "Brindavan Gardens",
+        "Mysore Zoo",
+        "St. Philomena's Church",
+        "Payana Museum"
+      ]
+    },
+    {
+      "name": "Uduppi",
+      "places": [
+        "St Mary's Island",
+        "Malpe Beach",
+        "Uduppi Temple"
+        
+      ],
+      "activities": [
+        "Boating"
+      ]
+    },
+    {
+      "name": "Coorg",
+      "places": [
+        "Abbey Falls",
+        "Raja's Seat",
+        "Dubare Elephant Camp",
+        "Bamboo Forest",
+        "Golden Temple",
+        "Harangi",
+        "Talacauvery",
+        "Namdroling Monastery"
+      ],
+      "activities": [
+        "Coffee plantation visit",
+        "River rafting"
+      ]
+    },
+    {
+      "name": "Bangalore",
+      "places": [
+        "Lalbagh Botanical Garden",
+        "Cubbon Park",
+        "Bangalore Palace",
+        "Wonderla",
+        "Vidhana Soudha"
+      ]
+    },
+    {
+      "name": "Hampi",
+      "places": [
+        "Virupaksha Temple",
+        "Vittala Temple",
+        "Stone Chariot",
+        "Lotus Mahal",
+        "Hemakuta Hill"
+      ]
+    },
+    {
+      "name": "Goa",
+      "featured": true,
+      "places": [
+        "Baga Beach",
+        "Calangute Beach",
+        "Basilica of Bom Jesus",
+        "Fort Aguada",
+        "Colva Beach",
+        "Dona Pola",
+        "Miramar Beach",
+        "Dudhsagar Falls"
+      ],
+      "activities": [
+        "Water sports",
+        "River cruise"
+      ]
+    },
+    {
+      "name": "Hyderabad",
+      "places": [
+        "Charminar",
+        "Golconda Fort",
+        "Ramoji Film City",
+        "Hussain Sagar Lake",
+        "Salar Jung Museum"
+      ]
+    },
+    {
+      "name": "Pondicherry",
+      "places": [
+        "Rock Beach",
+        "Paradise Beach",
+        "Auroville",
+        "Matrimandir",
+        "Promenade Beach",
+        "Serenity Beach",
+        "Auro Beach",
+        "White Town",
+        "French War Memorial",
+        "Sri Aurobindo Ashram",
+        "Manakula Vinayagar Temple",
+        "Basilica of the Sacred Heart of Jesus",
+        "Pondicherry Museum",
+        "Bharathi Park",
+        "Botanical Garden",
+        "Chunnambar Boat House",
+        "Old Lighthouse",
+        "Eden Beach",
+        "Ousteri Lake",
+        "Arikamedu Archaeological Site",
+        "Goubert Market",
+        "Immaculate Conception Cathedral",
+        "The Sacred Heart Basilica",
+        "Serenity Beach Market",
+        "Pichavaram Mangrove Forest"
+      ]
+    },
+     {
+      "name": "Alleppey",
+      "featured": true,
+      "places": [
+        "Alappuzha Beach",
+        "Marari Beach",
+        "Krishnapuram Palace",
+        "Vembanad Lake",
+        "Pathiramanal Island"
+      ],
+      "activities": [
+        "Houseboat cruise",
+        "Canoe ride through the backwaters"
+      ]
+    },
+    {
+      "name": "Kovalam",
+      "places": [
+        "Lighthouse Beach",
+        "Hawah Beach",
+        "Samudra Beach",
+        "Vizhinjam Fishing Harbour"
+      ],
+      "activities": [
+        "Beach walks",
+        "Water sports"
+      ]
+    },
+    {
+      "name": "Varkala",
+      "places": [
+        "Papanasam Beach",
+        "Varkala Cliff",
+        "Janardhana Swamy Temple",
+        "Sivagiri Mutt",
+        "Anjengo Fort"
+      ]
+    },
+    {
+      "name": "Athirappilly",
+      "places": [
+        "Athirappilly Waterfalls",
+        "Vazhachal Waterfalls",
+        "Charpa Falls"
+      ]
+    },
+    {
+      "name": "Kochi",
+      "places": [
+        "Fort Kochi",
+        "Chinese Fishing Nets",
+        "Mattancherry Palace",
+        "Jew Town",
+        "Marine Drive",
+        "Cherai Beach"
+      ]
+    }
+  ],
+  "food": {
+    "badge": "Unlimited Buffet",
+    "meals": [
+      {
+        "name": "Breakfast",
+        "items": [
+          "Idli",
+          "Dosa",
+          "Puttu & Kadala curry",
+          "Appam & Stew",
+          "Upma",
+          "Tea / Coffee"
+        ]
+      },
+      {
+        "name": "Lunch",
+        "items": [
+          "Kerala meals with rice",
+          "Sambar",
+          "Avial",
+          "Thoran",
+          "Pappadam",
+          "Pickle",
+          "Payasam",
+          "Biriyani"
+        ]
+      },
+      {
+        "name": "Dinner",
+        "items": [
+          "Chapati",
+          "Parotta",
+          "Vegetable curry",
+          "Fried rice",
+          "Ghee Rice",
+          "Chicken Curry",
+          "Chicken Kabab",
+          "Alfaham",
+          "Kuzhimandi",
+          "Salad",
+          "Dessert"
+        ]
+      }
+    ]
+  },
+  "inclusions": {
+    "items": [
+      "Transportation as per the package",
+      "Accommodation as per the package",
+      "Breakfast, lunch and dinner",
+      "Sightseeing as per the itinerary",
+      "Toll, parking and driver charges",
+      "Experienced tour coordinator",
+      "Security for all staff & students",
+      "Assistance throughout the journey"
+    ],
+    "disclaimer": "Inclusions vary by package. Entry tickets, personal expenses and optional activities are not included unless mentioned."
+  },
+  "stay": {
+    "hotels": {
+      "title": "Hotels & Accommodation",
+      "description": "Comfortable stays matched to your group, your destination and your budget.",
+      "points": [
+        "Rooms for groups, families and couples",
+        "Stays chosen close to the sights",
+        "Booked and confirmed before you travel"
+      ]
+    },
+    "vehicle": {
+      "title": "Vehicle Facility",
+      "description": "Vehicles to suit your group size, from a Traveller up to a 45-seat Volvo A/C pushback.",
+      "range": [
+        "Traveller",
+        "45-seat Volvo A/C pushback"
+      ],
+      "points": [
+        "Comfortable A/C travel",
+        "Experienced, courteous drivers"
+      ]
+    }
+  },
+  "offerNote": "The above offers are not confirmed before booking."
+}

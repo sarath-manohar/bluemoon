@@ -1,0 +1,44 @@
+HOW TO CHANGE THE WEBSITE PHOTOS
+================================
+
+Every photo on the website comes from the 3 folders next to this file.
+Right now they hold SAMPLE photos from Wikimedia Commons (credits: PHOTO-CREDITS.md).
+Replace them with your own tour photos whenever you can.
+
+To change a photo: put your photo in the folder with the SAME FILE NAME
+(overwrite the old one). Save, and the website updates.
+
+
+1) destinations\   ->  the photo on each destination card, the big sliding carousel,
+                       and the destination details popup.
+
+   One photo per destination. The file name = the destination name, lower-case,
+   spaces replaced with "-". Examples:
+       Munnar        ->  munnar.jpg
+       Kanyakumari   ->  kanyakumari.jpg
+       Chickmanglore ->  chickmanglore.jpg
+
+   Added a new destination in bluemoon-data.json? Add a photo with its name here.
+   No photo for a destination? Delete the file and a drawn illustration is shown instead.
+
+
+2) stay\           ->  the two "Stay & Travel" cards. Only these two names are used:
+       hotels.jpg
+       vehicle.jpg
+
+
+3) gallery\        ->  the photo gallery section.
+   Use ANY file names and ANY number of photos. Add, delete or replace freely.
+   - The number at the start only sets the order:  01-..., 02-..., 03-...
+   - The rest of the name becomes the photo description:
+         05-varkala-cliff.jpg   ->  "Varkala cliff"
+   - If the folder is empty, illustrations are shown instead.
+
+
+RULES
+-----
+- Allowed types: .jpg  .jpeg  .png  .webp  .avif
+- Keep photos around 1600 pixels wide and under ~500 KB (compress them, e.g. with squoosh.app).
+- After changing photos:
+      while testing  ->  "npm run dev" picks them up automatically (refresh the browser)
+      to go live     ->  run "npm run build" and upload the new "dist" folder again.
